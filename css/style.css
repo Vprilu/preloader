@@ -26,26 +26,26 @@ body {
 }
 
 .wrapper .ball:nth-child(1) {
-  animation: ball1 1s infinite;
-  animation: ball1_1 2s infinite;
-  animation: ball3 3s infinite;
+  animation: ball1 0.5s infinite;
+  animation: ball1_1 1s infinite;
+  animation: ball3 1.5s infinite;
 }
 .wrapper .ball:nth-child(2) {
-  animation: ball2 1.5s infinite;
-  animation: ball2_1 2s infinite;
-  animation: ball1_1 2.5s infinite;
+  animation: ball2 0.75s infinite;
+  animation: ball2_1 1s infinite;
+  animation: ball1_1 1.25s infinite;
 
 }
 .wrapper .ball:nth-child(3) {
-  animation: ball3 2.5s infinite;
-  animation: ball3_1 0.1s infinite;
-  animation: ball4_1 5s infinite;
+  animation: ball3 1.25s infinite;
+  animation: ball3_1 0.05s infinite;
+  animation: ball4_1 2.5s infinite;
 
 
 }
 .wrapper .ball:nth-child(4) {
-  animation: ball4 1s infinite;
-   animation: ball4_1 2s infinite;
+  animation: ball4 0.5s infinite;
+   animation: ball4_1 1s infinite;
 
 }
 
